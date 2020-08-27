@@ -5,7 +5,5 @@
 - 🌱 I’m currently learning C++ and Java, I have done Python for a year
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help as I am still new to programming
-- 📫 How to reach me: [Discord][DiscordLink]
+- 📫 How to reach me: [Discord](https://discord.gg/8SK4ZhB)
 - ⚡ Fun fact: Yep... Definally have one of those
-
-[DiscordLink] : https://discord.gg/8SK4ZhB
