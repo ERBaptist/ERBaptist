@@ -1,4 +1,4 @@
-### Student that's just starting to Program 
+### Student that's just started programming 
 ## Learning Python, C++, Java
 
 - 🔭 I’m currently working on building my basic skills and applying to different programming languages
