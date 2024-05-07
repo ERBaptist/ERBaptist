@@ -1,4 +1,4 @@
-# Main Title
+# ERBaptist Github Profile
 
 ## About Me
 
